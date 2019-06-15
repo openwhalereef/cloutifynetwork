@@ -786,7 +786,7 @@ html {
 }
 @media screen and (max-width: 800px) {
   .fh5co-hero-inner > h1 {
-    color: #fff;
+    color: #333333;
     font-weight: 300;
     font-size: 45px;
     letter-spacing: 2px;
